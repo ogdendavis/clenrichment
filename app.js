@@ -32,7 +32,7 @@ const figBomb = () => {
     }, 10000);
     window.setTimeout(() => {
       setup();
-    }, 10100);
+    }, 10250);
   }
 }
 
