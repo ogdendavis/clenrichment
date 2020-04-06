@@ -33,3 +33,17 @@ Students will complete the worksheet for Lesson 1, including activities using th
 * Opening the inspector
 * Identifying HTML tags, attributes, and elements
 * Demonstrating mastery of HTML vocab by answering questions such as: "Which tag has a class attribute of 'app'?" and "What tag is used in the element that contains the image of Ms. Lord?"
+
+## Day 2
+
+### Objective
+
+
+### Methods
+
+
+### Lesson
+#### Part I: Group
+
+
+#### Part II: Individual
