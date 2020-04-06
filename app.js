@@ -16,3 +16,5 @@ const loadSVG = async (id, insertBefore=false) => {
 const canvas = document.getElementById('canvas');
 
 document.getElementById('svg--mr-od').addEventListener('click', () => loadSVG('sylvie','mr-od'), {once: true});
+
+document.getElementById('svg--figgy').querySelector('.nose').addEventListener('click', () => alert('Nose boops are rude!'));
