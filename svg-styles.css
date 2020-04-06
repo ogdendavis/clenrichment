@@ -1,0 +1,157 @@
+.svg {
+  transition: all .5s ease-in-out;
+}
+
+#svg--mr-od {
+  width: 12em;
+}
+#svg--ms-lord {
+  width: 8em;
+}
+#svg--sylvie {
+  width: 4em;
+}
+#svg--figgy {
+  width: 3.5em;
+}
+#svg--trix {
+  width: 3.5em;
+}
+#svg--desk {
+  width: 16em;
+}
+#svg--barbell {
+  width: 13em;
+}
+#svg--bookshelf {
+  width: 7em;
+}
+#svg--contact {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+.svg--button {
+  width: 14.5em;
+  height: 6.5em;
+}
+@media only screen and (max-width: 460px) {
+  #svg--mr-od {
+    width: 6em;
+  }
+  #svg--ms-lord {
+    width: 4em;
+  }
+  #svg--sylvie {
+    width: 1em;
+  }
+  #svg--figgy {
+    width: 1.75em;
+  }
+  #svg--trix {
+    width: 1.75em;
+  }
+  #svg--desk {
+    width: 8em;
+  }
+  #svg--barbell {
+    width: 6.5em;
+  }
+  #svg--bookshelf {
+    width: 3.5em;
+  }
+  .svg--button {
+    width: 7em;
+    height: 3em;
+  }
+}
+
+/* Colors! Classes used in SVGs to draw pixel art */
+.pixel--brown {
+  fill: #744720;
+}
+.pixel--light-brown {
+  fill: #8d5524;
+}
+.pixel--stubble {
+  fill: #c6915c;
+}
+.pixel--dark-brown {
+  fill: #5b3a1c;
+}
+.pixel--darkest-brown {
+  fill: #432c19;
+}
+.pixel--leather {
+  fill: #5d4037;
+}
+.pixel--dark-leather {
+  fill: #3e2723;
+}
+.pixel--skin {
+  fill: #ffcd94;
+}
+.pixel--black {
+  fill: #000;
+}
+.pixel--white {
+  fill: #fff;
+}
+.pixel--blue {
+  fill: #2196f3;
+}
+.pixel--red {
+  fill: #f44336;
+}
+.pixel--dark-red {
+  fill: #dd2c00;
+}
+.pixel--green {
+  fill: #4caf50;
+}
+.pixel--dark-green {
+  fill: #388e3c;
+}
+.pixel--gray {
+  fill: #808080;
+}
+.pixel--shadow-gray {
+  fill: #9e9e9e;
+}
+.pixel--denim {
+  fill: #3f51b5;
+}
+.pixel--light-gray {
+  fill:#c0c0c0;
+}
+.pixel--purple {
+  fill: #9c27b0;
+}
+.pixel--gold {
+  fill: #ffb300;
+}
+.pixel--yellow {
+  fill: #ffe082;
+}
+.pixel--teal {
+  fill: #008080;
+}
+.pixel--violet {
+  fill: #800080;
+}
+.pixel--orange {
+  fill: #ff5722;
+}
+.pixel--cream {
+  fill: #ffd180;
+}
+.pixel--bookshelf-back {
+  fill: #795548;
+}
+.pixel--button-text {
+  fill: #3f51b5;
+}
+.pixel--button-bg {
+  fill: #3f51b5;
+  fill-opacity: 0;
+}
