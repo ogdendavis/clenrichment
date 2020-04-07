@@ -42,7 +42,7 @@ Students will complete the worksheet for Lesson 1, including activities using th
 * Students will be able to write CSS selectors that target HTML elements by tag name, id, and class
 
 ### Methods
-With the teacher, students will explore CSS declarations in the "Styles" section of the "Elements" tab in the Inspector. Students will view a video about how CSS works, and write their own CSS selectors and rules to change presentation of parts of the course page.
+With the teacher, students will explore CSS declarations in the "Styles" section of the "Elements" tab in the Inspector. Students will view a video about how CSS works, and write their own CSS selectors and rules.
 
 ### Lesson
 #### Part I: Group
