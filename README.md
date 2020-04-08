@@ -4,6 +4,7 @@ Students will learn what the basic languages of the internet are (HTML, CSS, Jav
 
 Built as a remotely-delivered one-week series of lessons for 8th graders.
 
+
 ## Day 1
 
 ### Objectives
@@ -33,6 +34,7 @@ Students will complete the worksheet for Lesson 1, including activities using th
 * Opening the inspector
 * Identifying HTML tags, attributes, and elements
 * Demonstrating mastery of HTML vocab by answering questions such as: "Which tag has a class attribute of 'app'?" and "What tag is used in the element that contains the image of Ms. Lord?"
+
 
 ## Day 2
 
@@ -77,3 +79,46 @@ Teacher will end with a reminder to complete the entire worksheet independently,
 Students will watch this video, which recaps the selector rules discussed in group time: [CSS Selectors](https://www.youtube.com/watch?v=N97h59hr4pc)
 
 Students will then complete the worksheet for the day, which asks them to combine their HTML and CSS knowledge to answer questions about an example page, and to write CSS rules that would change specified visual elements of the class page.
+
+
+## Day 3
+
+### Objectives
+* Students will understand what JavaScript is, and the role it plays in modern web applications
+* Students will be able to write working JavaScript code in the console of their web browser
+* Students will be able to select and modify an HTML element using JavaScript in the console
+
+### Methods
+Students will read an article and follow along with the suggested activities in their browser console to learn the basics. Then, students will apply these skills on the course site as instructed in today's worksheet.
+
+### Lesson
+#### Part I: Group
+Teacher will recap content from days 1 & 2:
+* What is an HTML element, and what are its pieces (tag name, attributes, content)?
+* What is a CSS ruleset, and what are its pieces (selector, property, value)?
+* How do we target HTML elements using CSS tag, id, and class selectors?
+
+Teacher will introduce what we're learning today: What is JavaScript, and how to write JavaScript in the console.
+
+Teacher will model article and worksheet completion for students.
+
+#### Part II: Individual
+Students will watch this video, with a brief history and description of JavaScript: [What is JavaScript?](https://www.youtube.com/watch?v=nItSSTwBvSU)
+
+Students will read and perform the exercises described in the first four sections of this article: [JavaScript for Cats](http://jsforcats.com/). Students will complete the sections entitled "The Basics", "Strings", "Values and Variables", and "Functions".
+
+Students will answer the following comprehension questions about the video and article:
+* What year was JavaScript invented?
+* Which of the following is/are a programming language? HTML, CSS, JavaScript
+* What is a String?
+* What is a Variable?
+* What is a Function?
+
+The worksheet will give instructions, with examples, of how to use JavaScript functions to select an HTML element from a web page and store it in a variable, which can then be modified using JavaScript to change the appearance of the HTML element on the page.
+
+Students will complete worksheet activities which involve using the console to do the following on the course page with JavaScript:
+* Change the background color of the entire page
+* Change the color of Figgy's collar
+* Turn the <main> element upside-down
+
+Students will write and test their code for these tasks in the console, and copy their successful code into their response document.
