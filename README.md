@@ -127,13 +127,29 @@ Students will complete worksheet activities which involve using the console to w
 * Students will be able to select and modify an HTML element using JavaScript in the console
 
 ### Methods
-
+Students will watch a video and write code in the console
 
 ### Lesson
 #### Part I: Group
+Teacher will give feedback on student progress so far, in general terms.
 
+Teacher will recap what we learned about HTML, CSS selectors, and writing JavaScript in the console. The progress so far is that we can identify attributes in HTML elements, write CSS selectors targeting those elements by attribute (ID or class), and use those selectors in JavaScript to store (a reference to) the element in a variable, and use that variable to modify things about the element!
+
+Teacher will remind student of worksheet procedures and due date, encourage students to stay in Google Meet until their work is done.
 
 #### Part II: Individual
+
+Students will watch this video: [Enrichment - USB - Lesson 4 Video](https://www.youtube.com/watch?v=1lZO3PVkits)
+
+The video is mostly a review, but also shows how to use document.querySelector and [element].style to modify HTML elements using JavaScript
+
+Students will perform basic color changes with JavaScript using document.querySelector and [element].style, and copy their successful code into their answer document
+
+
+## Day 5
+
+MAYBE USE: https://www.thinkful.com/blog/learn-javascript-fast-by-hacking-your-favorite-websites/
+
 The worksheet will give instructions, with examples, of how to use JavaScript functions to select an HTML element from a web page and store it in a variable, which can then be modified using JavaScript to change the appearance of the HTML element on the page.
 
 Students will complete worksheet activities which involve using the console to do the following on the course page with JavaScript:
