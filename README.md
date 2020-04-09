@@ -123,7 +123,7 @@ Students will complete worksheet activities which involve using the console to w
 
 ## Day 4
 
-### Objectives
+### Objective
 * Students will be able to select and modify an HTML element using JavaScript in the console
 
 ### Methods
@@ -148,13 +148,22 @@ Students will perform basic color changes with JavaScript using document.querySe
 
 ## Day 5
 
-MAYBE USE: https://www.thinkful.com/blog/learn-javascript-fast-by-hacking-your-favorite-websites/
+### Objective
+* Fun with JavaScript and CSS!
 
-The worksheet will give instructions, with examples, of how to use JavaScript functions to select an HTML element from a web page and store it in a variable, which can then be modified using JavaScript to change the appearance of the HTML element on the page.
+### Methods
+Students will explore different CSS attributes by using JavaScript to change styles of HTML elements and observing the results
 
-Students will complete worksheet activities which involve using the console to do the following on the course page with JavaScript:
-* Change the background color of the entire page
-* Change the color of Figgy's collar
-* Turn the <main> element upside-down
+### Lesson
+#### Part I: Group
+Teacher will remind students of work expectations, and demonstrate how to copy and paste code from the worksheet into the browser console.
 
-Students will write and test their code for these tasks in the console, and copy their successful code into their response document.
+#### Part II: Individual
+
+Students will complete the worksheet.
+
+The worksheet will give examples, of how we've previously used JavaScript functions to select an HTML element from a web page and store it in a variable, and then modify the element using that variable.
+
+Students will copy and paste code examples into the console of their browser, and note the results. They will modify the provided code to produce different results.
+
+Finally, students will create their own code to make changes to the course site. They will pick the changes they want to make and the elements that they want to make the changes to, and will write the code to do it.

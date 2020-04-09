@@ -13,6 +13,7 @@
 }
 #svg--figgy {
   width: 3.5em;
+  transform-origin: bottom left;
 }
 #svg--trix {
   width: 3.5em;
